@@ -1,2 +1,2 @@
 # excel_coffeSales_analysis__project
-Analyzed coffee sales data to address the challenge of tracking sales trends, identifying high-value customers, and comparing market performance. Built an interactive Excel dashboard to help businesses monitor key sales metrics, understand purchasing patterns, and make informed sales and product decisions.
+Analyzed coffee sales data to track sales trends, identify high-value customers, and compare market performance. Built an interactive Excel dashboard using PivotTables, PivotCharts, slicers, timelines, VLOOKUP, XLOOKUP, and KPI cards to monitor sales metrics, understand purchasing patterns, and support informed business decisions.
